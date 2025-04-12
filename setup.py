@@ -22,7 +22,7 @@ dependencies = [
     "jsonlines>=4.0.0",
     "pyod>=1.1.3",
     "FlagEmbedding>=1.2.8",
-    "tiktoken==0.6.0",
+    "tiktoken==0.7.0",
     "langdetect>=1.0.9",
 ]
 
